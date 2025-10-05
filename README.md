@@ -10,8 +10,7 @@ The project is organized with clean React components:
 
 - `Navbar` – Logo and navigation links  
 - `Hero` – Headline, sub-text, CTA buttons, and banner image  
-- `Features` – 3–4 cards highlighting institute services (e.g., Speaking Practice, Mock Tests, AI Band Score)  
-- `Exams` – Section showing additional exams students can learn  
+- `Features` – 3–4 cards highlighting institute services (e.g., Speaking Practice, Mock Tests, AI Band Score)
 - `Testimonials` – 2–3 student reviews with names and short feedback  
 - `Footer` – Basic links, contact info, and social media links  
 
@@ -56,3 +55,4 @@ Run the project:
 
 bash
 npm start
+
